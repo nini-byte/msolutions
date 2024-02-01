@@ -1,4 +1,4 @@
-# what is msolutions?
+# What is msolutions?
 msolutions is a relational database implemented using MySQL, designed for the management of employees, software products, and commercial activities.
 
 # ER diagram
